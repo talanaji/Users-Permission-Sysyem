@@ -1,0 +1,2 @@
+[19-Dec-2018 08:51:02 UTC] PHP Fatal error:  Cannot redeclare Reservation_ci::AddEdit_reserv() in /home/r3vu7x9efgej/public_html/eduCenter/application/controllers/Reservation_ci.php on line 180
+[19-Dec-2018 08:54:24 UTC] PHP Fatal error:  Cannot redeclare Reservation_ci::AddEdit_reserv() in /home/r3vu7x9efgej/public_html/eduCenter/application/controllers/Reservation_ci.php on line 180
